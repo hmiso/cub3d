@@ -99,7 +99,9 @@ must exit properly and return "Error\n" followed by an explicit error message
 of your choice.
 
 ///////////////////////////////////////////////////////////
+
 To start the game: ./cub3D map/map.cub
 
 Сreate a screenshot: ./cub3D map/map.cub --save
+
 ///////////////////////////////////////////////////////////
